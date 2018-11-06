@@ -1,3 +1,5 @@
+### This is under revision to be updated to the new SSO/ESI systems
+
 # eve-corp-portal
 
 This is a CMS for the MMORPG [EVE Online](http://www.eveonline.com/). It is meant to be a web portal for EVE Online in-game corporations. It authorizes users with the EVE Online API, greatly reducing the time required for managing corporation members. **Important: I no longer maintain this CMS and I will not provide support for it. I am merely posting it here hoping it may help someone.**
